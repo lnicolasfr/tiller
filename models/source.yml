@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: tiller
+    tables:
+      - name: order_data
+      - name: order_line
+      - name: store_data
+      - name: payment_data
